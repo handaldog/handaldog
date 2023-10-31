@@ -1,4 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Hello!%20HaeBangWorld👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
+
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=handaldog&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=handaldog&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbrhdwn123)](https://solved.ac/profile/dbrhdwn123)
+
+
 
 <!--
 **handaldog/handaldog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
