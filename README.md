@@ -2,7 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=handaldog&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=handaldog&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbrhdwn123)](https://solved.ac/profile/dbrhdwn123)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbrhdwn123)](https://solved.ac/profile/dbrhdwn123) <img src="https://ghchart.rshah.org/006400/handaldog" />
 
 <div> <align=center><h1>📚 STACKS</h1></div>
 
